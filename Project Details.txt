@@ -1,0 +1,3 @@
+Technologies:
+Front End: HTML, CSS, JavaScript, JQuery
+Back End: Php, Php myAdmin, MySql
